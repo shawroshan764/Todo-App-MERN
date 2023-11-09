@@ -57,7 +57,7 @@ npm install
 npm start
 ```
 
-#### Step 5: Install Frontend Dependencies
+#### Step 5: Move to frontend
 
 Open a new terminal window , and run the following command to install the frontend dependencies:
 
