@@ -37,7 +37,7 @@ Full-Stack Todo app using MERN Stack.
 git clone https://github.com/shawroshan764/todo-sentientgeeks.git
 ```
 
-#### Step 2: Move to backend
+#### Step 2: Move to backend and install all dependencies
 
 Open a new terminal window , and run the following command to install the frontend dependencies:
 
@@ -45,19 +45,17 @@ Open a new terminal window , and run the following command to install the fronte
 cd backend
 ```
 
-#### Step 3: Install all backend dependencies
-
 ```bash
 npm install
 ```
 
-#### Step 4: Start backend server
+#### Step 3: Start backend server
 
 ```bash
 npm start
 ```
 
-#### Step 5: Move to frontend
+#### Step 4: Move to frontend and install all dependencies
 
 Open a new terminal window , and run the following command to install the frontend dependencies:
 
@@ -69,7 +67,7 @@ cd frontend
 npm install
 ```
 
-#### Step 6: Run the Frontend Server
+#### Step 5: Run the Frontend Server
 
 After installing the frontend dependencies, run the following command in the same terminal to start the frontend server:
 
