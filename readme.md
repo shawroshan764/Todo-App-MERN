@@ -32,11 +32,12 @@ Full-Stack Todo app using MERN Stack.
 #### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/idurar/idurar-erp-crm.git
+git clone https://github.com/shawroshan764/todo-sentientgeeks.git
 ```
 
 ```bash
-cd idurar-erp-crm
+cd backend
+npm install
 ```
 
 #### Step 2: Create Your MongoDB Account and Database/Cluster
