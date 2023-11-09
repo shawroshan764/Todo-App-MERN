@@ -39,7 +39,7 @@ git clone https://github.com/shawroshan764/todo-sentientgeeks.git
 
 #### Step 2: Move to backend and install all dependencies
 
-Open a new terminal window , and run the following command to install the frontend dependencies:
+Open a new terminal window , and run the following command to install the backend dependencies:
 
 ```bash
 cd backend
