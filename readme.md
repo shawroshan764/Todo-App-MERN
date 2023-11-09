@@ -1,8 +1,6 @@
 # TODO Application
 Full-Stack Todo app using MERN Stack.
 
-[Visit Now](https://instagramernstack.herokuapp.com/) 🚀
-
 
 ## 🖥️ Tech Stack
 **Frontend:**
